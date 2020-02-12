@@ -15,9 +15,6 @@ workflows:
      - build:
           requires:
             - unit-tests
-          filters:
-            branches:
-              only: master
     #  - deploy:
     #       requires:
     #         - unit-tests
