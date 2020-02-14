@@ -10,6 +10,9 @@ function App() {
         <p>
           This is my CI/CD react app.
         </p>
+        <p>
+          Auto upload 2
+        </p>
       </header>
     </div>
   );
