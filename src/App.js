@@ -11,7 +11,7 @@ function App() {
           This is my CI/CD react app.
         </p>
         <p>
-          Auto upload 2
+          Auto upload 3
         </p>
       </header>
     </div>

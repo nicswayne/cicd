@@ -94,7 +94,7 @@ jobs:
 
       - aws-s3/sync:
           from: build
-          to: 's3://cicd-playground'
+          to: 's3://nic.mentorship.dialexa.com'
           arguments: |
             --cache-control "max-age=86400"
           overwrite: true
